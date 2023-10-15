@@ -20,4 +20,4 @@ One more drawback of the static model in rANS is its low efficiency for relative
 
 
 **References**<br />
-[1] E.Belyaev, K. Liu, An adaptive binary rANS with probability estimation in reverse order, IEEE Signal Processing Letters, 2023. <br />
+[1] E.Belyaev, K. Liu, [An adaptive binary rANS with probability estimation in reverse order](https://ieeexplore.ieee.org/document/10283871), IEEE Signal Processing Letters, 2023. <br />
