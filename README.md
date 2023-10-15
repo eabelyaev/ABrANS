@@ -1,5 +1,5 @@
 # ABrANS
-We propose an adaptive binary implementation of the range version of Asymmetric Numeral Systems (rANS). The main difference with the classic rANS are the following:
+We propose an adaptive binary implementation of the [range version of Asymmetric Numeral Systems](https://github.com/rygorous/ryg_rans) (rANS). The main difference with the classic rANS based on a static model are the following:
 1. As rANS encoder processes symbols in reverse order, we estimate the probabilities in forward order, store them into the encoder
 memory, and use them during the reverse encoding. It guarantees that both the encoder and the decoder have exactly the same
 probability estimation for each symbol.
