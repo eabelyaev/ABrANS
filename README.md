@@ -21,3 +21,9 @@ One more drawback of the static model in rANS is its low efficiency for relative
 
 **References**<br />
 [1] E.Belyaev, K. Liu, [An adaptive binary rANS with probability estimation in reverse order](https://ieeexplore.ieee.org/document/10283871), IEEE Signal Processing Letters, 2023. <br />
+[2] Ian H. Witten, Radford M. Neal, and John G. Cleary, [Arithmetic coding for data compression](https://dl.acm.org/doi/10.1145/214762.214771), Commun. ACM, 1987.
+[3] D. Marpe and T. Wiegand, [A highly efficient multiplication-free binary arithmetic coder and its application in video coding](https://ieeexplore.ieee.org/abstract/document/1246667), ICIP, 2003.
+[4] E. Belyaev, S. Forchhammer, and K. Liu, [An adaptive multialphabet arithmetic coding based on generalized virtual sliding window](https://ieeexplore.ieee.org/document/7930427), IEEE Signal Processing Letters, 2017.
+[5] E. Belyaev, K. Liu, M. Gabbouj, and Y. Li, [An efficient adaptive binary range coder and its VLSI architecture](https://ieeexplore.ieee.org/document/6963444), IEEE Transactions on Circuits and Systems for Video Technology, 2015.
+[6] Jarek Duda, [Asymmetric numeral systems: entropy coding combining speed of huffman coding with compression rate of arithmetic coding](https://arxiv.org/abs/1311.2540), 2014.
+[7] [Implementation of rANS coder](https://github.com/rygorous/ryg_rans)
